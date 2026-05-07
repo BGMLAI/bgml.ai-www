@@ -1,0 +1,3 @@
+/dashboard https://app.bgml.ai/dashboard 302
+/api/* https://app.bgml.ai/api/:splat 302
+/v1/* https://app.bgml.ai/v1/:splat 302
